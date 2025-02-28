@@ -32,7 +32,7 @@
     <meta name="description" content="" />
 
     <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="{{ asset('image/flaticon/agri.png') }}" />
+    <link rel="icon" type="image/x-icon" href="{{ asset('image/flaticon/traashh.png') }}" />
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
